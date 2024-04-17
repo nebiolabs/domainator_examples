@@ -1,0 +1,10 @@
+*.gb
+*.hmm
+*.tsv
+*.hdf5
+*.fasta
+*.jpg
+*.newick
+*.clstr
+*.xgmml
+*.html

@@ -1,0 +1,6 @@
+*
+!.gitignore
+!CARF_metadata.tsv
+!type_II_subset.txt
+!REBASE_Gold_standards.fasta
+!WP_000446153.fasta
