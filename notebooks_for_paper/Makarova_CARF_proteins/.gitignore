@@ -8,3 +8,4 @@
 *.clstr
 *.xgmml
 *.html
+.ipynb_checkpoints
