@@ -2,5 +2,5 @@
 !.gitignore
 !CARF_metadata.tsv
 !type_II_subset.txt
-!REBASE_Gold_standards.fasta
+!REBASE_Gold_Standards.fasta
 !WP_000446153.fasta
