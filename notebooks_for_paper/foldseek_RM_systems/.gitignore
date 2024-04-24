@@ -1,0 +1,15 @@
+*
+*.gb
+*.hmm
+*.tsv
+*.hdf5
+*.fasta
+*.jpg
+*.newick
+*.clstr
+*.xgmml
+*.html
+*.txt
+!foldseek_RM_systems.ipynb
+.ipynb_checkpoints
+!.gitignore
